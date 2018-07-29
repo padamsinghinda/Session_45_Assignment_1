@@ -1,0 +1,4 @@
+airplane,170
+car,140
+train,120
+ship,200
